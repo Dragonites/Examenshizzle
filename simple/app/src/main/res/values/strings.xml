@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">simple</string>
+	<string-array name="names">
+		<item>Hillary Clinton</item>
+		<item>Jeb bush</item>
+		<item>John MacAfee</item>
+		<item>Bernie Sanders</item>
+		<item>Donald Trump</item>
+		<item>Bob Whitaker</item>
+		<item>Martin O\'Malley</item>
+		<item>Rand Paul</item>
+	</string-array>
+
+	<string-array name="parties">
+		<item>Democratic Party</item>
+		<item>Republican Party</item>
+		<item>Independent</item>
+		<item>Democratic Party</item>
+		<item>Republican Party</item>
+		<item>AFP</item>
+		<item>Democratic Party</item>
+		<item>Republican Party</item>
+	</string-array>
+
+	<string-array name="ages">
+		<item>68</item>
+		<item>62</item>
+		<item>52</item>
+		<item>74</item>
+		<item>69</item>
+		<item>52</item>
+		<item>52</item>
+		<item>52</item>
+	</string-array>
+
+	<string-array name="votes">
+		<item>14</item>
+		<item>8</item>
+		<item>1</item>
+		<item>7</item>
+		<item>9</item>
+		<item>0</item>
+		<item>5</item>
+		<item>7</item>
+	</string-array>
+
+	<string-array name="election_types">
+		<item>Presidential</item>
+		<item>Senate</item>
+		<item>House of representatvies</item>
+		<item>Gubernatorial</item>
+		<item>Mayoral</item>
+	</string-array>
+</resources>

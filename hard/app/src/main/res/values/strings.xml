@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Elections 2016</string>
+
+    <string name="candidates">[
+		{\"name\": \"Hillary Clinton\", \"party\": \"Democratic party\", \"age\": 68, \"votes\": 14},
+		{\"name\": \"Jeb Bush\", \"party\": \"Republican Party\", \"age\": 62, \"votes\": 8},
+		{\"name\": \"John MacAfee\", \"party\": \"Independent\", \"age\": 52, \"votes\": 1},
+		{\"name\": \"Bernie Sanders\", \"party\": \"Democratic party\", \"age\": 74, \"votes\": 7},
+		{\"name\": \"Donald Trump\", \"party\": \"Republican Party\", \"age\": 69, \"votes\": 9},
+		{\"name\": \"Bob Whitaker\", \"party\": \"AFP\", \"age\": 52, \"votes\": 0},
+		{\"name\": \"Martin O\'Malley\", \"party\": \"Democratic party\", \"age\": 52, \"votes\": 5},
+		{\"name\": \"Rand Paul\", \"party\": \"Republican Party\", \"age\": 52, \"votes\": 7}
+    ]</string>
+
+    <string-array name="election_types">
+        <item>Presidential</item>
+        <item>Senate</item>
+        <item>House of representatvies</item>
+        <item>Gubernatorial</item>
+        <item>Mayoral</item>
+    </string-array>
+</resources>
